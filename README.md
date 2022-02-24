@@ -1,5 +1,6 @@
-# CryptAlert
+# CryptoAlert
 
+This is a demo program to watch realtime crypto price and when certain price alert is met, send the email to user.
 
 ## Start WebServer
 ```
